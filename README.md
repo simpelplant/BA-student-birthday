@@ -5,8 +5,10 @@ This was made to allow people to import the data into their preferred apps, incl
 <img src="screenshots/ss-calendar.jpg" width="300">
 
 #### Using The Calendar
-Download and import the `.ics` file to your digital calendar.
+1. Download `ba-student-birthday.ics` file 
+2. Import the file to your digital calendar.
 
 If your calendar supports importing calendars by URL, using [this link](https://raw.githubusercontent.com/simpelplant/BA-student-birthday/main/ba-student-birthday.ics) might work as well.
 
-[Blue Archive](https://en.wikipedia.org/wiki/Blue_Archive) by [Nexon](https://en.wikipedia.org/wiki/Nexon)
+---
+[Blue Archive](https://en.wikipedia.org/wiki/Blue_Archive)(c) by [Nexon](https://en.wikipedia.org/wiki/Nexon)
