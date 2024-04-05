@@ -2,7 +2,10 @@
 Collection of Blue Archive student birthdays, stored in iCalendar media type (ics). [iCalendar](https://en.wikipedia.org/wiki/ICalendar) is an open format and used by many calendar softwares.
 This was made to allow people to import the data into their preferred apps, including offline and mobile calendars.
 
+<figure>
 <img src="screenshots/ss-calendar.jpg" width="300">
+<figcaption align = "center"><em>Imported student birthdays on <a href="https://github.com/SimpleMobileTools/Simple-Calendar">Simple Calendar</a> widget, Android.</em></figcaption>
+</figure>
 
 #### Using The Calendar
 1. Download `ba-student-birthday.ics` file 
