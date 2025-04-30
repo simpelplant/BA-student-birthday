@@ -4,7 +4,7 @@ This was made to allow people to import the data into their preferred apps, incl
 
 <figure>
 <img src="screenshots/ss-calendar.jpg" width="300">
-<figcaption align = "center"><em>Imported student birthdays on <a href="https://github.com/SimpleMobileTools/Simple-Calendar">Simple Calendar</a> widget, Android.</em></figcaption>
+<figcaption align = "center"><em>Imported student birthdays on <a href="https://github.com/FossifyOrg/Calendar">Fossify Calendar</a> widget, Android.</em></figcaption>
 </figure>
 
 #### Using The Calendar
